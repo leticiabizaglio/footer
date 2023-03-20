@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(50, 150, 50);
+    text-align: center;
+}
+.carro{
+    text-decoration: none;
+    justify-content: center;
+}
+ul{
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin-left: 25px;
+}
+#casa{
+    margin-left: 0;
+}
+a:hover{
+    background-color: rgb(76, 177, 109);
+}
+body{
+    margin: 0;
+}
